@@ -5,6 +5,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class Duplicate_Array_Set {
+// collection
 	
 	public static void main(String[] args) {
 		
